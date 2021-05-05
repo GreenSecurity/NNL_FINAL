@@ -49,7 +49,21 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-[![Index][product-screenshot]](https://example.com)
+
+Inicio
+![Indice](https://user-images.githubusercontent.com/58775176/117107266-9bba5b00-ad81-11eb-99ac-53e5b680e388.png)
+
+Tienda
+![image](https://user-images.githubusercontent.com/58775176/117107569-12efef00-ad82-11eb-865f-d8c847350ca8.png)
+
+Iniciar Sesión
+![image](https://user-images.githubusercontent.com/58775176/117107642-331fae00-ad82-11eb-8aa8-5cefae85e73b.png)
+
+Registrate
+![image](https://user-images.githubusercontent.com/58775176/117107687-46cb1480-ad82-11eb-84b0-5b3920ef4e8a.png)
+
+
+
 
 Este proyecto se realizó como propuesta del centro ILERNA, concretamente el proyecto final de Sintesis para realizar una página web para una empresa. Esta web se realizó con puro proposito educativo. No está pensada para ir a más. 
 
