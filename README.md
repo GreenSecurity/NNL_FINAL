@@ -72,7 +72,7 @@ Este proyecto se realizó como propuesta del centro ILERNA, concretamente el pro
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 GreenSecurity | Greensecur20@gmail.com
 
