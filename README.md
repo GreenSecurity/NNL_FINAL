@@ -31,13 +31,13 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre el proyecto</a>
+      <a href="#Sobre el proyecto">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Hecho con</a></li>
+        <li><a href="#hecho con">Hecho con</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contacto</a></li>
-    <li><a href="#acknowledgements">Agradecimientos</a></li>
+    <li><a href="#Contacto">Contacto</a></li>
+    <li><a href="#Agradecimientos">Agradecimientos</a></li>
   </ol>
 </details>
 
