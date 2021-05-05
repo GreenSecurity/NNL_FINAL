@@ -23,7 +23,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/img/logo_nnl.svg" alt="Logo" width="80" height="80">
+    <img src="assets/img/readme/nnl.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Documentación de la página web de NNL.</h3>
@@ -61,8 +61,6 @@ Iniciar Sesión
 
 Registrate
 ![image](https://user-images.githubusercontent.com/58775176/117107687-46cb1480-ad82-11eb-84b0-5b3920ef4e8a.png)
-
-
 
 
 Este proyecto se realizó como propuesta del centro ILERNA, concretamente el proyecto final de Sintesis para realizar una página web para una empresa. Esta web se realizó con puro proposito educativo. No está pensada para ir a más. 
