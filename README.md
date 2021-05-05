@@ -20,13 +20,10 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/img/readme/nnl.png" alt="Logo" width="80" height="80">
-  </a>
+![image](https://user-images.githubusercontent.com/58775176/117108211-2780b700-ad83-11eb-82a6-d41b2d76bb6e.png)
 
-  <h3 align="center">Documentación de la página web de NNL.</h3>
+
+  <h3 align="center">Documentación de la página web de NNL</h3>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -75,7 +72,7 @@ Este proyecto se realizó como propuesta del centro ILERNA, concretamente el pro
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 GreenSecurity | Greensecur20@gmail.com
 
