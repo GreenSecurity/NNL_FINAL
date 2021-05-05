@@ -88,14 +88,16 @@ Iniciar Sesión (Modificado)
 ![image](https://user-images.githubusercontent.com/58775176/117107642-331fae00-ad82-11eb-8aa8-5cefae85e73b.png)
 
 Código modificando
-![image](https://user-images.githubusercontent.com/58775176/117110312-39178e00-ad86-11eb-8a11-81e188a16812.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117110460-6e23e080-ad86-11eb-87e1-a3bb62c9ac46.png)
 
 
 Registrate (Módificado)
 ![image](https://user-images.githubusercontent.com/58775176/117107687-46cb1480-ad82-11eb-84b0-5b3920ef4e8a.png)
 
 Código modificando
-![image](https://user-images.githubusercontent.com/58775176/117110352-45035000-ad86-11eb-9728-d9f0aa35a4ec.png)
+
+![image](https://user-images.githubusercontent.com/58775176/117110513-80058380-ad86-11eb-9bf2-b3458d2e43d5.png)
 
 
 
